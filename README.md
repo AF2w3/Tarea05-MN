@@ -1,0 +1,2 @@
+- MN = Método de Newton
+- MS = Método de la Secante
